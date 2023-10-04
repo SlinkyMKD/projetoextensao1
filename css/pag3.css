@@ -1,0 +1,31 @@
+.imagem-conservar img {
+    width: 1000px;
+    height: 440px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+
+.conteudo-conservar {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto 30px auto;
+    width: 960px;
+}
+
+    
+.conteudo-conservar h1 {
+    font-size: 36px;
+}
+
+.conteudo-conservar p {
+    font-size: 20px;
+    color: #666;
+    text-align:left;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    margin: 0 auto 30px auto;
+    width: 960px;
+}

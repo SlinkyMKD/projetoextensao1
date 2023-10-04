@@ -1,0 +1,32 @@
+.imagem-recursos img {
+    width: 1000px;
+    height: 440px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+
+.conteudo-recursos {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto 30px auto;
+    width: 960px;
+}
+
+    
+.conteudo-recursos h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.conteudo-recursos p {
+    font-size: 20px;
+    color: #666;
+    text-align:left;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    margin: 0 auto 30px auto;
+    width: 960px;
+}
